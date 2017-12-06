@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "KPP_Lab_4",
+  "short_name": "KPP_Lab_4",
+  "version": "io.cordova.myappd75c40",
+  "description": "A blank project that uses Apache Cordova to help you build an app that targets multiple mobile platforms: Android, iOS, and the Windows Universal Platform.",
+  "author": "Your name here",
+  "icons": [],
+  "start_url": "index.html"
+}
